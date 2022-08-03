@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: the-map
 data:
-  mysqlDB: "mysql.example.com:3306"
+  mysqlDB: "some data url: mysql.example.com:3306"
  
