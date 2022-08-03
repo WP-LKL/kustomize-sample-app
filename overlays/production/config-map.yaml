@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: the-map
 data:
-  mysqlDB: "some prod url data: prod-mysql.example.com:3306"
+  mysqlDB: "auto latest prod url data: prod-mysql.example.com:3306"
